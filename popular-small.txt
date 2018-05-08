@@ -1,0 +1,3 @@
+http://courses.cs.washington.edu/courses/cse374/17wi/
+http://i.will.return.an.error
+http://courses.cs.washington.edu/courses/cse374/17wi/syllabus.html
